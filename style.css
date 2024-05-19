@@ -1,0 +1,30 @@
+#upper{
+    display: flex;
+    height: 100px;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 100px;
+    padding-left: 20px;
+    color: rgb(152, 56, 4);
+}
+#outer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+    border: solid 1px pink;
+    background-color: #44D345;
+
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#but{
+    height: 60px;
+    width: 130px;
+    border-radius: 14%;
+    background-color: rgb(152, 56, 4);
+    color: aliceblue;
+    font-size: large;
+}
